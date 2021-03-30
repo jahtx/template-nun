@@ -1,0 +1,47 @@
+{
+  "name": "template-nun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ajv": "^6.2.0",
+    "bootstrap": "^4.6.0",
+    "browser-sync": "^2.26.14",
+    "flickity": "^2.2.0",
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-mustache": "^3.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "hamburgers": "^0.9.3",
+    "html5boiler": "0.0.9",
+    "jquery": "^3.6",
+    "materialize-css": "^0.100.2",
+    "minimatch": "^3.0.4",
+    "node-neat": "^2.0.0-beta.0",
+    "popper.js": "^1.14.1",
+    "responsive-nav": "^1.0.39",
+    "uglifyjs-webpack-plugin": "^1.2.2",
+    "unminified-webpack-plugin": "^1.4.2",
+    "webpack": "^4.0.1",
+    "webpack-stream": "^4.0.2",
+    "zenscroll": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "npm": "^5.7.1"
+  }
+}
